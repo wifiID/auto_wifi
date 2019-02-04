@@ -1,3 +1,3 @@
-Terima kasih telah menggunakan autowifi auto login
+Terima kasih telah menggunakan autowifi auto logintes
 
 Silakan cek update terbaru kami di https://drive.google.com/open?id=1wH5cnDvaDxqEVOBy7dtldn0Jp3HayBXR
