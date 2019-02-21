@@ -2,4 +2,5 @@ Terima kasih telah menggunakan autowifi auto loginSilakan cek update terbaru kam
 
 untuk mengupdate aplikasi Anda, tambahkan argument -U, misalnya auto_wifi.exe -U
 
-Harga full version dari aplikasi ini saat ini masih promo yaitu Rp 25.000. Untuk pembelian silakan hubungi kami via WA: 089678842024
+Harga full version dari aplikasi ini saat ini masih promo yaitu Rp 25.000. 
+Untuk pembelian silakan hubungi kami via WA: 089678842024
