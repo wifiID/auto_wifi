@@ -12,4 +12,4 @@ cara kerja aplikasi ini adalah dengan mencoba login ke server menggunakan ribuan
 
 Untuk mendownload aplikasi ini, silakan kunjungi URL halaman ini (https://github.com/wifiId/auto_wifi) melalui browser di windows Anda.
 
-Aplikasi ini bersifat trial 3x (hargailah jasa programmer), dan cukup dengan harga promo Rp 25.000 (sekali bayar saja), Anda sudah dapat menggunakan aplikasi ini tanpa batas waktu. :)
+Aplikasi ini bersifat trial 3x (hargailah jasa programmer), dan cukup dengan harga Rp 49000 (sekali bayar saja), Anda sudah dapat menggunakan aplikasi ini tanpa batas waktu. :)
