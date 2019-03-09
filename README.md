@@ -1,3 +1,7 @@
+what's new:
+1. anda bisa menggunakan voucher sendiri untuk login
+2. bisa mengecek secara massal validitas voucher
+
 aplikasi ini digunakan untuk login otomatis ke @wifi.id ataupun WMS (misalnya NAMAINSTITUSI atau NAMAINSTITUSI@wifi.id)
 
 cara menggunakan aplikasi ini sangat mudah.
