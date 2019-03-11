@@ -3,7 +3,6 @@ Untuk mendownload aplikasi ini, silakan kunjungi URL halaman ini (https://github
 what's new:
 1. anda bisa menggunakan voucher sendiri untuk login
 2. bisa mengecek secara massal validitas voucher
-3. "remove restriction" jika Anda terkena batasan
 
 aplikasi ini digunakan untuk login otomatis ke @wifi.id ataupun WMS (misalnya NAMAINSTITUSI atau NAMAINSTITUSI@wifi.id)
 
