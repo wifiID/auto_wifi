@@ -14,4 +14,4 @@ cara menggunakan aplikasi ini sangat mudah.
 3. pastikan Anda sudah memasukkan data login Anda (menu > Open Voucher File)
 3. klik login
 
-Untuk menggunakan data login lebih dari 10, dan menggunakan internalDB kami, maka silakan lakukan pemesanan kepada kami, cukup dengan harga Rp 49000 (sekali bayar saja), Anda sudah dapat menggunakan aplikasi ini tanpa batas.
+Untuk menggunakan data login (voucher/komunitas) lebih dari 10, dan menggunakan internalDB kami, maka silakan lakukan pemesanan kepada kami, cukup dengan harga Rp 49000 (sekali bayar saja), Anda sudah dapat menggunakan aplikasi ini tanpa batas.
