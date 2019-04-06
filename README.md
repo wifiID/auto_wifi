@@ -5,6 +5,7 @@ what's new:
 2. bisa mengecek secara massal validitas voucher
 3. uji coba penggunaan wms - laporkan jika ada error
 4. uji coba internalDB gratis
+5. no compression - FASTER START
 
 aplikasi ini digunakan untuk login otomatis ke @wifi.id ataupun WMS (misalnya NAMAINSTITUSI atau NAMAINSTITUSI@wifi.id)
 
